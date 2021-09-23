@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: white;
+    font-size: 3vw;
+}
+
+pre {
+    text-align: center;
+    color: green;
+    font-size: 2vw;
+    font-weight: bolder;
+}
+
+#main {
+    text-align: center;
+    border: 2px solid:green;
+    background-color: white;
+    padding: 2%;
+}
+
+#one,
+#two,
+#three,
+#four {
+    width: 10%;
+    cursor: pointer;
+    border-radius: 10%;
+}
+
+#sub {
+    text-align: center;
+    margin-top: 5%;
+}
+
+#btn :hover {
+    background-color: black;
+    color: green;
+}
