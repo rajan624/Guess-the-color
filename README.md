@@ -23,7 +23,7 @@ HTML5
 CSS3
 JavaScript
 
-This is a small project but with lots of functionalities. A great project to refresh your JavaScript Knowledge.
+This is a small project but with lots of functionalities. 
 
 
 
