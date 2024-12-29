@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-Check out the live version of the game: [Guess-the-color](https://rajan624.github.io/Guess-the-color/)
+Check out the live version of the game: <a href="https://rajan624.github.io/Guess-the-color/" target="_blank">Guess-the-color</a>
 
 *A RGB color guessing game*
 
